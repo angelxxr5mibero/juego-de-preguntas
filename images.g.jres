@@ -1,0 +1,12 @@
+{
+    "image1": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAD/DwAAAAAA8BEP/w8A//AfEf8RD/Afv/ERHxEP/x+/EfERH/HxH78RH/ER8fEf8BvxH7H78R/wGxER+/vxHwC/u7sPD/8fAPD//wAA8B8AAAAAAAAA/wAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "caballo"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
